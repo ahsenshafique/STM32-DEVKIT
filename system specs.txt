@@ -1,0 +1,31 @@
+part list
+
+MCU- STM32F103VBH6		497-6069-ND
+PMIC- RT9193-33GQW		RT9193-33GQW-ND
+XCR- FC4SDCBMM8.0-T1		631-1399-1-ND
+LED- SML-D12U1WT86		SML-D12U1WT86CT-ND
+BUTTON-	PTS526 SK15 SMTR2 LFS 	611-PTS526SK15SMR2L
+USB CONN- 0475900001		WM17144CT-ND
+BEAD- BK1608HS601-T		587-1874-1-ND
+
+Blocks needed
+
+power supply		OK
+adc supply 		OK
+
+SYSTEM RESET 		OK
+DEBUG LEDS 		OK
+EXTERNAL XCR 		OK
+SWDIO (debugging)	OK
+JTAG (debugging)	OK
+DIOs			OK
+AIs			OK	
+USB 			OK
+UART			OK
+
+board specs
+4 layers
+0.7 mils signal thickness
+1.4 mils plan thickness
+5 mils dielectric
+FR-4 Er=4.6
